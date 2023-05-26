@@ -10,7 +10,7 @@
     <div class="panel panel-primary">
         <div class="panel-heading">Desktop</div>
         <div class="panel-body">
-           Welcome to my application
+            Welcome to application.
         </div>
     </div>
 </div>

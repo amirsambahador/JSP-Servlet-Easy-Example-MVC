@@ -5,7 +5,6 @@ import org.apache.commons.dbcp2.BasicDataSource;
 import java.sql.Connection;
 
 public class JDBC {
-    private static final BasicDataSource BASIC_DATA_SOURCE = new BasicDataSource();
     private static final BasicDataSource XE_DATA_SOURCE = new BasicDataSource();
 
     static {
